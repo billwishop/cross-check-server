@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "crosscheck",
+            "database": "db.sqlite3"
+        }
+    ],
+    "python.pythonPath": "/Users/williambishop/.local/share/virtualenvs/server-YeQ8D3Ji/bin/python"
+}

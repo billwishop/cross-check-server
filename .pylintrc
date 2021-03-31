@@ -1,0 +1,6 @@
+[FORMAT]
+good-names=i,j,ex,pk, d1, d2, pt
+
+[MESSAGES CONTROL]
+disable=broad-except
+

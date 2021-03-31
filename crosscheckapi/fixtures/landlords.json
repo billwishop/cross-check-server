@@ -1,0 +1,16 @@
+[
+    {
+        "model": "crosscheckapi.landlord",
+        "pk": "1",
+        "fields": {
+            "user": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.landlord",
+        "pk": "2",
+        "fields": {
+            "user": 2
+        }
+    }
+]

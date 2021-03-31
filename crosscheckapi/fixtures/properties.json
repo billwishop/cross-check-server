@@ -1,0 +1,24 @@
+[
+    {
+        "model": "crosscheckapi.property",
+        "pk": 1,
+        "fields": {
+            "street": "123 Ez St.",
+            "city": "Nashville",
+            "state": "TN",
+            "postal_code": "37216",
+            "landlord": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.property",
+        "pk": 2,
+        "fields": {
+            "street": "234 Ez St.",
+            "city": "Nashville",
+            "state": "TN",
+            "postal_code": "37216",
+            "landlord": 2
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "model": "crosscheckapi.tenantpropertyrel",
+        "pk": 1,
+        "fields": {
+            "lease_start": "2021-03-08",
+            "lease_end": "2022-03-08",
+            "rent": 1500,
+            "tenant": 1,
+            "rented_property": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.tenantpropertyrel",
+        "pk": 2,
+        "fields": {
+            "lease_start": "2021-03-08",
+            "lease_end": "2022-03-08",
+            "rent": 1500,
+            "tenant": 2,
+            "rented_property": 2
+        }
+    }
+]

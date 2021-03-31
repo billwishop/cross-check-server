@@ -1,0 +1,28 @@
+[
+    {
+        "model": "crosscheckapi.payment",
+        "pk": 1,
+        "fields": {
+            "date": "2021-03-01",
+            "amount": 1000,
+            "ref_num": "P4567655",
+            "tenant": 1,
+            "rented_property": 1,
+            "payment_type": 1,
+            "landlord": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.payment",
+        "pk": 2,
+        "fields": {
+            "date": "2021-02-01",
+            "amount": 2000,
+            "ref_num": "P4567655",
+            "tenant": 2,
+            "rented_property": 2,
+            "payment_type": 2,
+            "landlord": 2
+        }
+    }
+]

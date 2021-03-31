@@ -1,0 +1,32 @@
+[
+    {
+        "model": "crosscheckapi.tenant",
+        "pk": 1,
+        "fields": {
+            "phone_number": "(555)555-5555",
+            "email": "tenant@tenant.com",
+            "full_name": "Fox Mulder",
+            "landlord": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.tenant",
+        "pk": 2,
+        "fields": {
+            "phone_number": "(555)555-5555",
+            "email": "tenant@tenant.com",
+            "full_name": "Dana Scully",
+            "landlord": 1
+        }
+    },
+    {
+        "model": "crosscheckapi.tenant",
+        "pk": 3,
+        "fields": {
+            "phone_number": "(555)555-5555",
+            "email": "tenant@tenant.com",
+            "full_name": "Walter P Skinner",
+            "landlord": 2
+        }
+    }
+]
