@@ -5,6 +5,16 @@
             "driver": "SQLite",
             "name": "crosscheck",
             "database": "db.sqlite3"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "crosscheck",
+            "database": "crosscheck",
+            "username": "will"
         }
     ],
     "python.pythonPath": "/Users/williambishop/.local/share/virtualenvs/server-YeQ8D3Ji/bin/python"
